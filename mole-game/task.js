@@ -24,6 +24,8 @@ arrHole.forEach(hole => {
     }
 });
 
+
+
 // for (let index = 1; index <= 9; index++) {
 //     arrHole[index].onclick = () => {
 //         if (arrHole[index].className.includes('hole_has-mole')) {
